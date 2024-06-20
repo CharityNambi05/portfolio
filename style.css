@@ -15,9 +15,44 @@ header{
     font-weight: 800;
     color: rgb(0, 238, 255);
     text-decoration: underline;
-    text-align: center;
-    padding-right: 200px;
+    /* text-align: center; */
+    /* padding-right: 200px; */
 
 }
 
 
+h2{
+    font-style: italic;
+    text-decoration-line: underline;
+    color: antiquewhite;
+
+}
+
+p{
+    font-size: 30px;
+}
+
+
+.Hobbies li{
+    font-size: 30px;
+}
+
+.travel h3{
+    font-size: 35px;
+    font-style: italic;
+}
+
+
+h4{
+    font-size: 25px;
+}
+
+
+.AFFIRMATIONS li{
+    font-size: 20px;
+}
+
+
+h5{
+    font-size: 20px;
+}
