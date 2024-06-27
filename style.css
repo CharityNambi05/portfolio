@@ -33,13 +33,14 @@ p{
 }
 
 
-.Hobbies li{
+.Hobbies{
     font-size: 30px;
 }
 
 .travel h3{
     font-size: 35px;
     font-style: italic;
+    color: rgba(205, 255, 218, 0.466);
 }
 
 
@@ -49,7 +50,7 @@ h4{
 
 
 .AFFIRMATIONS li{
-    font-size: 20px;
+font-size: 30px;
 }
 
 
